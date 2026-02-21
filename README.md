@@ -17,7 +17,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ravinfsd&color=6EE7F7&style=flat-square&label=PROFILE+VIEWS)](https://github.com/ravinfsd)
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/RAVINPANDEY.MATCHBEST@GMAIL.COM-6EE7F7?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.COM)
+[![Email](https://img.shields.io/badge/PANDEYRAVINDER078@GMAIL.COM-6EE7F7?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.COM)
 
 </div>
 
@@ -136,7 +136,7 @@ const Ravin = {
 
 ### `> contact --reach_me`
 
-<a href="mailto:RAVINPANDEY.MATCHBEST@GMAIL.COM">
+<a href="mailto:PANDEYRAVINDER078@GMAIL.COM">
 <img src="https://img.shields.io/badge/Send%20Mail-0d1117?style=for-the-badge&logo=gmail&logoColor=6EE7F7&labelColor=0d1117" />
 </a>
 
