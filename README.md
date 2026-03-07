@@ -11,7 +11,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6EE7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer:Context+Engineer;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Building+production-ready+web+apps;From+idea+to+deployment+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6EE7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer:Context+Engineer;Building+production-ready+web+apps;From+idea+to+deployment+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -35,7 +35,7 @@
 
 ```yaml
 name       : Ravin
-role       : Full Stack Developer
+role       : Backend Developer
 company    : Software Dev Agency
 location   : India 🇮🇳
 focus      : Scalable Web Applications
@@ -46,10 +46,10 @@ status     : Open to opportunities
 
 ```javascript
 const Ravin = {
-  frontend  : ["Next.js", "React", "Vue.js"],
-  backend   : ["Node.js", "Express", "Laravel"],
-  database  : ["MongoDB", "MySQL", "PostgreSQL"],
-  devops    : ["Vercel", "DigitalOcean", "Docker"],
+  frontend  : ["Next.js"],
+  backend   : ["Node.js", "FastAPI"],
+  database  : ["MongoDB", "PostgreSQL"],
+  devops    : ["Vercel", "Docker"],
   tools     : ["Git", "VS Code", "Postman"],
   learning  : ["Always something new..."]
 };
